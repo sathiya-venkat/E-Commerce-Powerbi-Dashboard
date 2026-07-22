@@ -79,8 +79,7 @@ The dataset contains information about:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Screenshot 2026-07-22 114041.png)
-
+![Dashboard](Screenshot%202026-07-22%20114041.png)
 ---
 
 ## 💡 Skills Demonstrated
