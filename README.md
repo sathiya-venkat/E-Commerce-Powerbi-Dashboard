@@ -79,7 +79,7 @@ The dataset contains information about:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Screenshot%202026-07-22%20104814.png)
+![Dashboard](Screenshot 2026-07-22 114041.png)
 
 ---
 
@@ -109,12 +109,12 @@ E-Commerce-Powerbi-Dashboard/
 ---
 
 
-Aspiring Data Analyst
+
 
 Skills:
 - SQL
 - Power BI
 - DAX
 - Power Query
-- Advanced Excel
-- Python
+- ETL Process
+- Data Visulization
