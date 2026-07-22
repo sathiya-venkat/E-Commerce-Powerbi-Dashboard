@@ -52,16 +52,17 @@ The dataset contains information about:
 - Total Sales
 - Total Orders
 - Total Customers
+- Total Sellers
 - Average Order Value
-- Total Products Sold
-- Cancellation Rate
+- Average Rating
 
 ### Visualizations
 
-- Monthly Sales Trend
-- Top 10 States by Sales
-- Sales by Payment Type
-- Top Product Categories
+- Yearly Sales Trend
+- Top 10 Product Categories
+- Top Sales by Payment Type
+- Top 10  Sellers by Sales
+- Top 10  Sales by State
 - Interactive Slicers
 
 ---
@@ -70,7 +71,7 @@ The dataset contains information about:
 
 - Identified the highest revenue-generating states.
 - Analyzed preferred payment methods.
-- Compared monthly sales trends.
+- Compared yearly sales trends.
 - Identified top-selling product categories.
 - Built an interactive dashboard for business decision-making.
 
