@@ -282,13 +282,19 @@ Analyzes customer payment behavior.
 - Home Page
   ![Home Dashboard](Images/Home.png)
 - Executive Overview
+  ![Executive Overview](Images/Executive.png)
 - Customer Analysis
+  ![Customer Analysis](Images/Customer.png)
 - Order Analysis
+  ![Order Analysis](Images/Order.png)
 - Product Analysis
+  ![Product Analysis](Images/Product.png)
 - Seller Analysis
+  ![Seller Analysis](Images/Seller.png)
 - Payment Analysis
+  ![Payment Analysis](Images/Payment.png)
 
-(Add screenshots here.)
+
 
 ---
 
