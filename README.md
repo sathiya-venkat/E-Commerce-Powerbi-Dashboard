@@ -280,6 +280,7 @@ Analyzes customer payment behavior.
 # 📸 Dashboard Preview
 
 - Home Page
+  ![Home Dashboard]("C:\Users\HP\Pictures\Screenshots\Screenshot 2026-08-01 132723.png")
 - Executive Overview
 - Customer Analysis
 - Order Analysis
