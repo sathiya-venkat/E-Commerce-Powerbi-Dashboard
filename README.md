@@ -86,37 +86,11 @@ This dashboard helps business users answer critical questions such as:
 
 The Home page provides an overview of the project and acts as the navigation page.
 
-### Features
-
-- Project Overview
-- Dataset Information
-- Country
-- Analysis Period
-- Tools Used
-- Navigation Buttons
-
 ---
 
 ## 📈 Executive Overview
 
 Provides a high-level summary of overall business performance.
-
-### KPIs
-
-- Total Revenue
-- Total Orders
-- Total Customers
-- Total Sellers
-- Average Rating
-
-### Visuals
-
-- Monthly Revenue Trend
-- Orders by Status
-- Revenue by Payment Type
-- Top Product Categories by Revenue
-- Top States by Revenue
-- Total Orders by Month
 
 ---
 
@@ -124,59 +98,18 @@ Provides a high-level summary of overall business performance.
 
 Provides insights into customer behavior and purchasing patterns.
 
-### KPIs
-
-- Total Customers
-- Repeat Customers
-- Average Orders per Customer
-- Average Order Value
-
-### Visuals
-
-- Customer Growth Trend
-- Top 10 Customer States
-- Top 10 Customer Cities
-- Customer Distribution by State
-
 ---
 
 ## 📦 Order Analysis
 
 Analyzes order performance and delivery status.
 
-### KPIs
-
-- Total Orders
-- Delivered Orders
-- Cancelled Orders
-- Average Delivery Days
-
-### Visuals
-
-- Monthly Orders Trend
-- Orders by Payment Type
-- Orders by Status
-- Top 10 States by Orders
-
 ---
+
 
 ## 🛒 Product Analysis
 
 Evaluates product and category performance.
-
-### KPIs
-
-- Total Products
-- Total Categories
-- Average Product Price
-- Top Category Revenue
-
-### Visuals
-
-- Top 10 Product Categories by Revenue
-- Revenue by Category
-- Top Categories by Orders
-- Category Revenue Distribution
 
 ---
 
@@ -184,39 +117,11 @@ Evaluates product and category performance.
 
 Provides insights into seller performance.
 
-### KPIs
-
-- Total Sellers
-- Average Revenue per Seller
-- Seller States
-- Average Seller Rating
-
-### Visuals
-
-- Top 10 Sellers by Revenue
-- Seller Distribution Map
-- Sellers by State
-- Top Seller States by Revenue
-
 ---
 
 ## 💳 Payment Analysis
 
 Analyzes customer payment behavior.
-
-### KPIs
-
-- Total Payments
-- Total Payment Value
-- Average Payment
-- Payment Types
-
-### Visuals
-
-- Revenue by Payment Type
-- Payment Type Distribution
-- Monthly Payment Trend
-- Average Payment by Type
 
 ---
 
@@ -289,16 +194,12 @@ Analyzes customer payment behavior.
   ![Customer Analysis](Images/Customer.png)
   
 - Order Analysis
-  ![Order Analysis](Images/Order.png)
   
 - Product Analysis
-  ![Product Analysis](Images/Product.png)
   
 - Seller Analysis
-  ![Seller Analysis](Images/Seller.png)
   
 - Payment Analysis
-  ![Payment Analysis](Images/Payment.png)
 
 
 
@@ -327,7 +228,7 @@ This dashboard enables businesses to:
 
 
 - Email: *sathiyavenkatachalam258@gmail.com*
-
+- Mobile:*9385871378*
 ---
 
 ⭐ If you found this project useful, please consider giving it a ⭐ on GitHub.
